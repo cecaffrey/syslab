@@ -12,3 +12,11 @@ LIST OF AUTHORS TO CONSIDER
 10. Tacitus _
 11. Jerome _
 12. Erasmus _
+
+---------------
+
+KEY
+_ = NOT STARTED
+P = PREPARING/IN PROGRESS
+XX% = XX% DONE
+X = DONE
